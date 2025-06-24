@@ -1,5 +1,20 @@
 # 💫 About Me:
-I am currently working on web development
+Hi, I'm **Md Tawfiquzzaman** — a passionate and detail-oriented **Software Engineer** and **Full Stack Web Developer**.
+
+🎓 I hold a degree in **Computer Science and Engineering**, majoring in **Software Engineering**, from **Universiti Teknologi Malaysia (UTM)**.
+
+💻 My expertise includes building responsive, dynamic web applications using:
+- **React**, **Tailwind CSS**, and **JavaScript** for front-end
+- **Node.js**, **Express.js**, and **MongoDB** for back-end
+- **Firebase** for authentication and real-time databases
+
+🚀 I’m currently working on:
+- A hobby web platform with authentication, course management, and role-based access
+- Implementing a limited seat feature and secure **JWT-based API** integration
+
+🔧 I love solving problems, writing clean and scalable code, and continuously learning new technologies.
+
+📫 I'm actively seeking full-time opportunities and collaborations in **web development** and **software engineering**. Let’s connect and build something great!
 
 
 # 💻 Tech Stack:
